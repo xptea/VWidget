@@ -36,6 +36,8 @@
 
 **VWidget** is a modern desktop widget engine built with **Tauri**. Create, manage, and customize beautiful translucent widgets for your desktop.
 
+<br><img width="2290" height="1233" alt="image" src="https://github.com/user-attachments/assets/83a6df17-eac4-4806-af1e-0baac156e924" />
+
 ## Features
 
 - **Translucent Windows**: Customizable background opacity with blur effects
